@@ -43,6 +43,23 @@ h1, h2, h3, h4, h5, h6 {
     pointer-events: none
 }
 
+.borderMix {
+    border-style: groove !important;
+    border-width: 20px !important;
+    border-color: rgb(85, 202, 241) !important;
+}
+
+.borderMix1 {
+    border-style: inset !important;
+    border-width: 20px !important;
+    border-color: rgb(85, 202, 241) !important;
+}
+.borderMix2 {
+    border-style: dashed !important;
+    border-width: 20px !important;
+    border-color: #10c0d4 !important;
+}
+
 .scroll-to-top {
     position: fixed;
     right: 15px;
