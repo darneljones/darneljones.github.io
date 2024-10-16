@@ -1,9 +1,27 @@
 // src/components/Experience.js
 const experiences = [
   {
-    company: "Tech Solutions",
-    role: "Senior Web Developer",
-    duration: "2019 - Present",
+    company: "FINEOS",
+    role: "Technical Consultancy Team Lead",
+    duration: "2020 - Present",
+    description: "Lead web development projects using React and Node.js.",
+  },
+  {
+    company: "Bank of America Financial Center",
+    role: "UI Engineer",
+    duration: "2019 - 2020",
+    description: "Lead web development projects using React and Node.js.",
+  },
+  {
+    company: "Amobee",
+    role: "UI Engineer",
+    duration: "2017 - 2019",
+    description: "Lead web development projects using React and Node.js.",
+  },
+  {
+    company: "NCR",
+    role: "Training Coordinator",
+    duration: "2016 - 2017",
     description: "Lead web development projects using React and Node.js.",
   },
 ];
